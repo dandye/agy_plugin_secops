@@ -1,0 +1,16 @@
+{
+  "google-secops-hook": {
+    "PostToolUse": [
+      {
+        "matcher": "run_command",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "./scripts/validate.sh",
+            "timeout": 10
+          }
+        ]
+      }
+    ]
+  }
+}

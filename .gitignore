@@ -1,0 +1,15 @@
+# Environments (Strict Security Rule Compliance)
+.env
+.env.*
+!.env.example
+.venv/
+env/
+venv/
+ENV/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Local development notes
+local_notes.md

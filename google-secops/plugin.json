@@ -1,0 +1,8 @@
+{
+  "name": "google-secops",
+  "contextFileName": "GEMINI.md",
+  "displayName": "Google SecOps",
+  "description": "Google SecOps Antigravity plugin enabling analytics and threat detection.",
+  "version": "0.1.0",
+  "author": "Dan Dye"
+}

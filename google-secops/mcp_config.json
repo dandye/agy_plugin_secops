@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "google-secops": {
+      "serverUrl": "https://us-chronicle.googleapis.com/mcp",
+      "authProviderType": "google_credentials",
+      "oauth": {
+        "scopes": [
+          "https://www.googleapis.com/auth/cloud-platform"
+        ]
+      },
+      "timeout": 300000,
+      "headers": {
+        "x-goog-user-project": "${PROJECT_ID}"
+      }
+    }
+  }
+}

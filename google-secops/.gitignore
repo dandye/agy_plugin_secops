@@ -1,0 +1,22 @@
+# Cache directories
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# Environments (Strict Security Rule Compliance)
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Plugin local run logs / assets
+logs/
+*.log
