@@ -8,4 +8,3 @@ This document provides environment-specific variables and metadata to ground the
 - **GCP Project ID**: `secops-demo-env`
 - **GCP Project Number**: `813924125873`
 - **Chronicle Region**: `us`
-- **Service Account Credentials**: `/Users/dandye/.ssh/secops-demo-env-a0f61702b7b4.json`
