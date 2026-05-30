@@ -6,8 +6,8 @@ Google SecOps Antigravity (agy) plugin enabling security analytics, threat triag
 
 ```bash
 # Clone the repository
-git clone git@depot.code.corp.goog:personal/dandye_agy_plugin_secops.git
-cd dandye_agy_plugin_secops
+git clone https://github.com/dandye/agy_plugin_secops.git
+cd agy_plugin_secops
 
 # Install the plugin globally
 agy plugin install google-secops
